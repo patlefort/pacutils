@@ -36,6 +36,7 @@
 #include "pacutils/log.h"
 #include "pacutils/mtree.h"
 #include "pacutils/ui.h"
+#include "pacutils/uix.h"
 #include "pacutils/util.h"
 
 char *pu_version(void);
